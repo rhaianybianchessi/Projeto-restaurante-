@@ -4,7 +4,13 @@ Este projeto é um sistema de gerenciamento de restaurante desenvolvido em Java,
 
 Funcionalidades
 
+ - Organização com DAOs e separação de responsabilidades
+ - Conexão com banco SQLite e uso de chaves estrangeiras
+ - Interface via terminal com tratamento de exceções
+ - Estrutura baseada em boas práticas de design e separação de responsabilidades
 
+
+CRUD:
 -  CRUD completo de clientes
 -  CRUD completo de ingredientes
 -  CRUD completo de mesas
@@ -20,5 +26,7 @@ Tecnologias Utilizadas
 - JDBC
 - Banco de dados: SQlite
 
-Estrutura do Projeto
+  
+
+
 
